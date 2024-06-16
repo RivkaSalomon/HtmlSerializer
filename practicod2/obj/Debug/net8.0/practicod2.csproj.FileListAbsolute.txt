@@ -1,0 +1,16 @@
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\practicod2.exe
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\practicod2.deps.json
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\practicod2.runtimeconfig.json
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\practicod2.dll
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\practicod2.pdb
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.AssemblyInfoInputs.cache
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.AssemblyInfo.cs
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.csproj.CoreCompileInputs.cache
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.dll
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\refint\practicod2.dll
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.pdb
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\practicod2.genruntimeconfig.cache
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\obj\Debug\net8.0\ref\practicod2.dll
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\HtmlTags.json
+D:\תכנות רבקי ו\.NET\practicod2\practicod2\bin\Debug\net8.0\HtmlVoidTags.json
